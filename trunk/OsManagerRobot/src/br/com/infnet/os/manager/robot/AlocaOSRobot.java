@@ -6,11 +6,11 @@ public class AlocaOSRobot {
 	public static void main(String[] args) {
 		
 		//TODO definir o que vira dos args...
-		//Ler as os�s agendadas para o dia.
+		//Ler as oss agendadas para o dia.
 		
 		/*
 		 * Ler os tecnicos em espera, se for horario anterior a 8h,
-		 *  e o tecnico estiver em espera despachar 5 Os�s para ele.
+		 *  e o tecnico estiver em espera despachar 5 Oss para ele.
 		 */
 		
 		/*
